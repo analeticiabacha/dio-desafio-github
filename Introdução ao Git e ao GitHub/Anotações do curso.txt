@@ -1,2 +1,13 @@
 Link para download do Git: https://git.scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Arquivos do tipo .md:
+O tipo de arquivo Markdown não suporta cores. É um conversor de etxto para HTML.
+Desenvolvido em 2004 por John Gruber e Aaron Swartz para simplificar a estruturação de um texto, 
+o Markdown é um sistema de formatação aberto que torna a escrita e a leitura mais simples.
+
+Criar repositório no GitHub:
+Profile > New > Preencher infos > Publico
+
+Comandos básicos do Git Bash:
+git add*, git commit -m "mensagem", git push origin main, git clone, git status, cd nomepasta.
