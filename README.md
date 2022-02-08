@@ -1,6 +1,6 @@
 # Repositório do Desafio de Projeto sobre Git/GitHub da DIO 🤟
 Repositório criado para o desafio de Projeto.
-## <fontcolor='green'>Links úteis :fist_oncoming: </font>
+## Links úteis :fist_oncoming: 
 
 [Sintaxe_Basica_Markdown](https://www.markdownguide.org/basic-syntax/)
 
